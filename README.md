@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Evgeniy Kucher
 
-<!--
-**ekucher/ekucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## System Administrator | DevOps | Backend Developer
 
-Here are some ideas to get you started:
+Experienced System Administrator and DevOps Engineer with expertise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux (Debian, Ubuntu)
+- Windows Server
+- Proxmox VE
+- ZFS
+- Docker
+- Nginx
+- PostgreSQL
+- Git & GitHub
+- PowerShell
+- Bash
+- Zabbix
+- WireGuard
+- High Availability
+- Backup & Disaster Recovery
+- Automation
+
+## Current projects
+
+- BRAVO Script Monitor
+- VetControl
+- Homelab Infrastructure
+- Zabbix Templates
+- Proxmox Backup Automation
+
+## Skills
+
+- Infrastructure Automation
+- Monitoring
+- CI/CD
+- Virtualization
+- Network Administration
+- Security
+- API Integration
+
+## Contact
+
+GitHub:
+https://github.com/ekucher
